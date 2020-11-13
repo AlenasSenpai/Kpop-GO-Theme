@@ -176,9 +176,8 @@
 }
 #dj-booth {
     background: url('https://i.gyazo.com/b801b3a29e76546f555e5db2bfc58ff1.png') !important;
-    background-position: center 100% !important;
+    background-position: center bottom !important;
     background-repeat: no-repeat !important;
-    padding-bottom: 10px;
     left: 265px;
 }
 #search-menu .menu ul i, #search-menu-icon {
