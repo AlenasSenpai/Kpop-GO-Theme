@@ -31,7 +31,7 @@
     background-position-y: bottom !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background-image: url(https://i.gyazo.com/a6a57f89915e6465fd0b88db136366b6.jpg) !important;
+    background-image: url('https://i.gyazo.com/a6a57f89915e6465fd0b88db136366b6.jpg') !important;
 }
 @media (min-width: 576px) {
     .community__right-bar,
