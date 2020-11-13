@@ -176,7 +176,7 @@
 }
 #dj-booth {
     background: url('https://i.gyazo.com/b801b3a29e76546f555e5db2bfc58ff1.png') !important;
-    background-position: center 0px bottom 10px !important;
+    background-position: center bottom !important;
     background-repeat: no-repeat !important;
     left: 265px;
 }
